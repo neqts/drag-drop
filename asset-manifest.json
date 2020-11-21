@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/neqts/drag-drop.git/static/css/main.2d3b102b.chunk.css",
+    "main.js": "/neqts/drag-drop.git/static/js/main.42daf440.chunk.js",
+    "main.js.map": "/neqts/drag-drop.git/static/js/main.42daf440.chunk.js.map",
+    "runtime-main.js": "/neqts/drag-drop.git/static/js/runtime-main.164818cf.js",
+    "runtime-main.js.map": "/neqts/drag-drop.git/static/js/runtime-main.164818cf.js.map",
+    "static/js/2.f4f67e2d.chunk.js": "/neqts/drag-drop.git/static/js/2.f4f67e2d.chunk.js",
+    "static/js/2.f4f67e2d.chunk.js.map": "/neqts/drag-drop.git/static/js/2.f4f67e2d.chunk.js.map",
+    "static/js/3.742a9896.chunk.js": "/neqts/drag-drop.git/static/js/3.742a9896.chunk.js",
+    "static/js/3.742a9896.chunk.js.map": "/neqts/drag-drop.git/static/js/3.742a9896.chunk.js.map",
+    "index.html": "/neqts/drag-drop.git/index.html",
+    "static/css/main.2d3b102b.chunk.css.map": "/neqts/drag-drop.git/static/css/main.2d3b102b.chunk.css.map",
+    "static/js/2.f4f67e2d.chunk.js.LICENSE.txt": "/neqts/drag-drop.git/static/js/2.f4f67e2d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.164818cf.js",
+    "static/js/2.f4f67e2d.chunk.js",
+    "static/css/main.2d3b102b.chunk.css",
+    "static/js/main.42daf440.chunk.js"
+  ]
+}
